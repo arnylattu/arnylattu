@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arnylattu
 - 👀 I’m interested in Programming, Data Science
 - 🌱 I’m currently learning at Satya Wacana Christian University
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lattuarny24@gmail.com
 
 <!---
